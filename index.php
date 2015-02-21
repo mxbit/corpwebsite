@@ -11,8 +11,8 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>MXBIT Technology Innovations Pvt Ltd</title>
-    <meta name="description" content="Mobile applications, e-learning courseware, m-learning modules, porting apps from flash to html5, web design, web application development, grahic design, UI and UX design and development, UI Engineering, Javascript framework development, Adobe Flatform development">
-    <meta name="keywords" content="mobile application development in bangalore,  Android, e-learning, m-learning, mobile learning, iOS, iPhone, iPad, blackberry, moble apps company in bangalore, game development, online mobile games, mobile applications, blackberry, iPhone, iPad,facebook application integration, phonegap, jQuery, javascript, html5, css 3.0, flex, actionscript, adobe flash platform, integrated e-learing courseware, e-learning flash to html, web apps, ui, ux development">
+    <meta name="description" content="Mobile applications, e-learning courseware, m-learning modules, hybrid mobile apps, web design, web application development, UI and UX design and development, UI Engineering, Javascript framework development, Adobe Flatform development">
+    <meta name="keywords" content="mobile application development in bangalore,  Android, e-learning, m-learning, hybrid apps, mobile learning, iOS, iPhone, iPad, blackberry, moble apps company in bangalore, game development, online mobile games, mobile applications, javascript, blackberry, iPhone, iPad,facebook application integration, phonegap, ionic, javascript, html5, css 3.0, flex, actionscript, adobe flash platform, integrated e-learing courseware, e-learning flash to html, web apps, ui, ux development">
 
     <meta name="author" content="Anand Vimalanathan">
     <!-- Mobile Specific Metas
@@ -174,8 +174,8 @@
             <blockquote class="bigTitle">
 
 
-<span class="red_big">OUR SERVICES</span> <span class="lgray_big">/</span> <span class="blue_big">Web development</span><span class="lgray_big">/</span><span class="gray_big">Mobile Application Development</span> <span class="lgray_big">/</span> <span class="blue_big">Social Media Integration</span> <span class="lgray_big">/</span> 
-<span class="gray_big">Rich Internet Application</span><span class="lgray_big">/</span> <span class="gray_big">User Experience Design</span> <span class="lgray_big">/</span> <span class="blue_big">Visual and Interactive Design</span> <span class="lgray_big">/</span> <span class="gray_big">e Learning Solutions</span><span class="blue_big"><span class="lgray_big">/</span> Game Development</span>
+<span class="red_big">OUR SERVICES</span> <span class="lgray_big">/</span> <span class="blue_big">Web development</span><span class="lgray_big">/</span><span class="gray_big">Mobile Application Development</span> <span class="lgray_big">/</span> <span class="blue_big">Hybrid Mobile Apps</span> <span class="lgray_big">/</span> 
+<span class="gray_big">Javascript frameworks</span><span class="lgray_big">/</span> <span class="gray_big">User Experience Design</span> <span class="lgray_big">/</span> <span class="blue_big">Visual and Interactive Design</span> <span class="lgray_big">/</span> <span class="gray_big">e Learning Solutions</span><span class="blue_big"><span class="lgray_big">/</span> Game Development</span>
 
             </blockquote>
         </div>
@@ -270,7 +270,7 @@
 <div class="container clearfix">
 <div class="row">
 <div class="col-sm-12">
-    <h1>Portfolio</h1><br>
+    <h1>Projects</h1><br>
     <p>We've been fortunate enough to do good work for good people. And, we always help our clients going further. Follow us on Twitter and Facebook to know more about our business activites.</p>
 </div>
 <nav id="filter" class="col-md-12 text-center">
@@ -506,7 +506,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="footerWidget">
-                        <img src="images/careers.png" alt="Circuito Criluge" id="footerLogo">
+                        <img src="images/careers.png" alt="Careers" id="footerLogo">
                         <p>We free you to do the best work of your life.<br> If you are experienced or fresh out of college and obsessed with OOPS concepts, data structure, system design and coding in Java, Php, Python? <br>Wanted to join in a smart place where passionate and dedicated professionals gather and appreciate how good you are, send us your best "Why you're good" to <a href="mailto:jobs@mxbit.co.in">jobs@mxbit.co.in</a></p>
                     </div>
                 </div>
@@ -533,7 +533,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <p>Copyright © 1999-2014 MXBIT Technology Innovations Pvt Ltd </p>
+                <p>Copyright © <script>document.write(new Date().getFullYear())</script> MXBIT Technology Innovations Pvt Ltd </p>
             </div>
             <div class="col-sm-6">
                 <ul class="socialNetwork pull-right">
