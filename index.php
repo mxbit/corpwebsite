@@ -11,8 +11,8 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>MXBIT Technology Innovations Pvt Ltd</title>
-    <meta name="description" content="Mobile applications, e-learning courseware, m-learning modules, hybrid mobile apps, web design, web application development, UI and UX design and development, UI Engineering, Javascript framework development, Adobe Flatform development">
-    <meta name="keywords" content="mobile application development in bangalore,  Android, e-learning, m-learning, hybrid apps, mobile learning, iOS, iPhone, iPad, blackberry, moble apps company in bangalore, game development, online mobile games, mobile applications, javascript, blackberry, iPhone, iPad,facebook application integration, phonegap, ionic, javascript, html5, css 3.0, flex, actionscript, adobe flash platform, integrated e-learing courseware, e-learning flash to html, web apps, ui, ux development">
+    <meta name="description" content="Javascript fullstack development, Mobile applications, e-learning courseware, hybrid mobile apps, web design, web application development, UI and UX design and development, Javascript framework development, Adobe Flatform development">
+    <meta name="keywords" content="Javascript fullstack development in bangalore, NodeJS, AngularJS, Mean Stack development, mobile application development in bangalore,  hybrid apps, mobile learning, Android, e-learning, m-learning, iOS, iPad, blackberry, moble apps company in bangalore, game development, online mobile games, mobile applications, javascript, blackberry, iPhone, iPad,facebook application integration, phonegap, ionic, javascript, html5, css 3.0, flex, actionscript, adobe flash platform, integrated e-learing courseware, e-learning flash to html, web apps, ui, ux development">
 
     <meta name="author" content="Anand Vimalanathan">
     <!-- Mobile Specific Metas
@@ -175,7 +175,7 @@
 
 
 <span class="red_big">OUR SERVICES</span> <span class="lgray_big">/</span> <span class="blue_big">Web development</span><span class="lgray_big">/</span><span class="gray_big">Mobile Application Development</span> <span class="lgray_big">/</span> <span class="blue_big">Hybrid Mobile Apps</span> <span class="lgray_big">/</span> 
-<span class="gray_big">Javascript frameworks</span><span class="lgray_big">/</span> <span class="gray_big">User Experience Design</span> <span class="lgray_big">/</span> <span class="blue_big">Visual and Interactive Design</span> <span class="lgray_big">/</span> <span class="gray_big">e Learning Solutions</span><span class="blue_big"><span class="lgray_big">/</span> Game Development</span>
+<span class="gray_big">Cloud Services</span><span class="lgray_big">/</span> <span class="gray_big">UI UX Design</span> <span class="lgray_big">/</span> <span class="blue_big">Fullstack Javascript</span> <span class="lgray_big">/</span> <span class="gray_big">e Learning Solutions</span><span class="blue_big"><span class="lgray_big">/</span> Game Development</span>
 
             </blockquote>
         </div>
