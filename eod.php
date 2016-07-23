@@ -37,7 +37,7 @@
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"> -->
   </head>
 
-  <body>
+  <body style="margin:0px">
 
 
     <div class="container">
@@ -49,7 +49,7 @@
         <div  class="clr"></div>
         
        
-        <iframe src="https://docs.google.com/a/mxbit.co.in/forms/d/1XZW8e9jk1cV_j_gl2hv4ENrKNCwARfgdxuC069cYy58/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        <iframe src="https://docs.google.com/a/mxbit.co.in/forms/d/1w773SPbFYeYCqmjp4PAPh_3fejuE28Aqdgr6MjU7XUU/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 		 
     
         
@@ -58,49 +58,6 @@
 
 
 <!-- Footer starts-->
- <div class="footerHolder">
-
-	
-		<div style="padding:20px">
-
-		 <div class="footerSlogan"><h1>Maximum<br/>Experience<br/>Design<br/></h1></div>
-
-		
-
-		<div class="footeraddrlogo" >
-
-		<div  class="footerlogo"><br/>
-
-		<span>MXBIT TECHNOLOGY INNOVATIONS PVT LTD</span>
-
-		<br/># 525, I Floor, 8th Cross,30th Main Road,<br/>Sector I, HSR Layout, Bangalore 560102<br/><br/>
-
-		<div>
-
-		
-
-		<a href="http://facebook.com/mxbit" target="_blank"><img src="assets/images/btn_fb.png"/></a>
-
-		<a href="https://twitter.com/#!/mxbit" target="_blank"><img src="assets/images/btn_twitter.png"/></a>
-
-		<a href="http://in.linkedin.com/mxbit" target="_blank"><img src="assets/images/btn_linkedin.png"/></a>
-
-		<g:plusone size="small" annotation="none"></g:plusone>
-
-		
-
-		</div></div>
-
-		</div>
-
-		</div>
-
-		
-
-		<div class="clr copyright">Copyright &#169; 2012 MXBIT Technology Innovations Pvt Ltd. All rights reserved.</div>
-
-	
-</div>
 
 	 
 
