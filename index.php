@@ -447,13 +447,14 @@
             <div class="col-sm-4">
                 <h4>Address:</h4>
                 <address>
-                # 525, I Floor, <br>8th Cross,30th Main Road,<br>
+                # 2310, 16th Cross Road, <br>27th Main,<br>
                 Sector I, HSR Layout, <br>Bangalore 560102
                 India
                 </address>
                 <h4>Telephone:</h4>
                 <address>
                     +91 961 114 1924<br/>
+                    +91 963 352 6689<br/>
                 </address>
                 <h4>E-mail:</h4>
                 <address>
