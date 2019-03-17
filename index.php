@@ -447,14 +447,19 @@
             <div class="col-sm-4">
                 <h4>Address:</h4>
                 <address>
+                <strong>Bengaluru</strong><br>
                 # 2310, 16th Cross Road, <br>27th Main,<br>
                 Sector I, HSR Layout, <br>Bangalore 560102
-                India
+                India<br><br>
+                <strong>Thiruvananthapuram</strong><br>
+                I Floor, 49K, TC 23/1402(4), B Block, <br> 
+                GNRA Junction, CIT Road, Melarannor <br> 
+                Thiruvananthapuram, Kerala 695002. <br>
                 </address>
                 <h4>Telephone:</h4>
                 <address>
-                    +91 961 114 1924<br/>
-                    +91 963 352 6689<br/>
+                    +91 8078 1560 42<br/>
+                    +91 9611 1419 24<br/>
                 </address>
                 <h4>E-mail:</h4>
                 <address>
@@ -519,9 +524,9 @@
                         <h3>Work with MXBIT</h3>
                         <address>
                             <p> <!-- <i class="icon-location"></i>&nbsp;# 525, I Floor, <br>8th Cross,30th Main Road,<br>
-													Sector I, HSR Layout, <br>Bangalore 560102<br> -->
-                                <i class="icon-phone"></i>&nbsp;+91 9611 141924<br>
-                                <i class="icon-phone"></i>&nbsp;+91 4712 470329<br>
+                                                    Sector I, HSR Layout, <br>Bangalore 560102<br> -->
+                                <i class="icon-phone"></i>&nbsp;+91 8078 1560 42<br>
+                                <i class="icon-phone"></i>&nbsp;+91 9611 1419 24<br>
                                 <i class="icon-mail"></i>&nbsp;<a href="mailto:info@mxbit.co.in">info@mxbit.co.in</a> </p>
                         </address>
                     </div>
