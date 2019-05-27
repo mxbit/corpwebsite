@@ -458,7 +458,6 @@
                 </address>
                 <h4>Telephone:</h4>
                 <address>
-                    +91 8078 1560 42<br/>
                     +91 9611 1419 24<br/>
                 </address>
                 <h4>E-mail:</h4>
