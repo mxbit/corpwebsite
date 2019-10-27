@@ -537,16 +537,16 @@
 </article>
 
 
-<article class="col-sm-4 isotopeItem elec interaction">
-    <section class="imgWrapper">
-        <img alt="" src="images/works/teletaxi.jpg" class="img-responsive">
+	<article class="col-sm-4 isotopeItem elec interaction">
+    	<section class="imgWrapper"> 	<img alt="SCUBI" src="images/works/scubi_02.jpg" class="img-responsive">
     </section>
-
-    
     <div class="mediaHover">
-        <div class="mask"><span>SCUBI Command monitoring LED Panel</span></div>
+        <div class="mask"><span>SCUBI Command Output Monitoring Card for Test and Evaluation </span></div>
         <div class="iconLinks">
-            <a href="projects/elec_cmled.html" title="Detail View" class="sizer portfolioSheet" alt="Command monitoring LED Panel">
+            <a href="projects/elec_cmled.html" 
+				title="Detail View" 
+				class="sizer portfolioSheet" 
+				alt="SCUBI Command Monitoring">
                 <i class=" icon-eye iconRounded iconBig"></i>
                 <span>More info</span>
             </a>
