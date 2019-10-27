@@ -99,7 +99,7 @@
                         <li>
                             <h1> Optimal solutions </h1><br>
                             <h2> We provide Spectrum of services <br> 
-                                 Design and Engineering under one roof.</h2>
+                                 Design and Engineering under one roof. </h2>
                         </li>
 
                        <li>
