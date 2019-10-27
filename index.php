@@ -65,7 +65,7 @@
                 <a class="navbar-brand" href="index.php"><img src="images/main-logo.png" alt="MXBIT Technology Innovations Pvt Ltd"/></a> </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
                 <ul class="nav navbar-nav pull-right">
-                    <li class="active"><a href="#home"><i></i>Home</a> </li>
+                    <li class="active"><a href="#home"><i></i>MXBIT <sup>&reg;</sup></a> </li>
                     <li><a href="#about"><i ></i>About</a> </li>
                     <!--<li><a href="#services"><i class="icon-thumbs-up"></i>Services</a> </li>-->
                     <li><a href="#services"><i></i>Services</a> </li>
@@ -74,7 +74,7 @@
                     <!-- <li><a href="#products"><i></i>Products</a> </li> -->
                     <li><a href="#contact"><i></i>Contact</a> </li>
                 </ul>
-            </div>
+            </div> 
 
         </nav>
     </div>
@@ -88,82 +88,112 @@
                 <div class="flexslider" id="flexHome">
                     <ul class="slides">
                         <li>
-                            <h1>Let's get started on your next great idea.</h1>
-                            <h2>We help companies to provide maximum online experience<br> that drive strategic business outcomes.</h2>
+                            <h1>System Integration </h1><br>
+                            <h2>We provide optimal solution with strategic advantage </h2>
                         </li>
                         <li>
-                            <h1>We are just like everyone else.</h1>
-                            <h2>and remember that is the starting point for everything we do.</h2>
+                            <h1>We materialize your idea </h1><br>
+                            <h2>And remember that is the starting point of everything we do </h2>
                         </li>
+
                         <li>
-                            <h1>Prepare for take off</h1>
-                            <h2>We are a full services interactive agency delivering <br> Strategy, Design and Engineering under one roof.</h2>
+                            <h1> Optimal solutions </h1><br>
+                            <h2> We provide Spectrum of services <br> 
+                                 Design and Engineering under one roof.</h2>
                         </li>
+
+                       <li>
+                            <h1> Quality Policy </h1><br>
+                            <h2> Quality out values Quantity </h2>
+                        </li> 
+
+                       <li>
+                            <h1> End to End solutions </h1><br>
+                            <h2> Concept to Product  realization services</h2>
+                        </li>
+
                     </ul>
                 </div>
             </div>
             <div class="col-lg-5 col-sm-6 hidden-xs">
-                <!-- Good design, both in software and experience, is all about solving problems - communicating internally, promoting online self-service, getting customers and keeping customers. We focus through a strategic insight to tackle complexities that organizations face, and deliver the simplest and the most elegant solution. -->
+                
             </div>
         </div>
     </div>
 </section>
-<!-- call to action -->
+ 
 <section class="color4 slice">
     <div class="ctaBox ctaBoxFullwidth">
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
                     <h1>
-                        <strong> <button class="btn btn-xs"><a href="#mainFooter">HIRING</a></button>  </strong>| Aspiring Engineers in web and mobile development
+                        <strong> <button class="btn btn-xs"><a href="#mainFooter">H I R I N G</a></button>  </strong>  
+                        Aspiring Engineers in System Development, Data Acquisition, Web and Mobile Platform Development.
                     </h1>
-                </div>
-                <div class="col-md-8"><br/></div>
-                <!--
-                <div class="col-md-4">
-                    <a class="btn btn-lg" title="" href="https://wrapbootstrap.com/theme/ashley-one-page-parallax-bootstrap-3-WB0R11207" target="blank">
-                        <i class="icon-play"></i>Ascolta in pop-up
-                    </a>
-                </div>
-                -->
-                <div class="col-md-8">
-                   
+                </div> 
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- call to action -->
-<!-- about -->
+ 
 
 <section class="slice" id="about">
    
-<div class="container">
-
+    <div class="container">
         <div class="row newsText">
             <div class="col-sm-4"> <img src="images/team.png" alt="services" class="img-responsive"> </div>
             <div class="col-sm-4">
-                <h3>WE ARE</h3>
-
-                <p>A group of passionate and dedicated professionals gather daily, committed to provide customer experiences that inspire recommendations.MXBIT Technology Innovations Pvt Ltd, founded in 2012, focused on providing Software Service and Product development.
+                <h3>  WE ARE  </h3> 
+                <p>                   
+                   We provide end to end system engineering and product development services.
+                   <br>
+                MXBIT <sup>&reg;</sup> is a technology company founded  in 2012  and powered by a group of passionate professionals.
+             We work with companies and institutions to achieve their business goals.
+             We provide optimal technology to save time and cost in product development.
+             Our quality concept starts from design  
                 </p>
 
                 <br><br><br><br><br><br><br>
             </div>
 
             <div class="col-sm-4">
-                <h3>@ MXBIT</h3>
-                <p>We provides a wide spectrum of Software Solutions in Mobility and Web which enable clients to optimize their business processes and ensure Maximum operational efficiency.
-                Relationships are very important to us and we always lay the foundation for long-term association. We pledge to provide quality service to our clients and maintain integrity and excellence in all our operations. Let's get started on your next great idea. </p>
+                <h3> MXBIT <sup>&reg;</sup></h3>
+                <p>
+                    We provides wide spectrum of solution in system automation, network data acquisition, software solutions, 
+                    mobile computing and web interfaces. 
+                    <br>
+                    We have empowered our clients in optimizing their business processes and ensuring maximum operational efficiency.
+                    <br>
+                    Product functionality and solution quality are two important factors which drive us into innovations.
+                We provide long term association and service to every products we deliver and maintain excellency in operations. 
+                                   
+                </p>
 
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- about -->
+
+<section class="color4 slice">
+    <div class="ctaBox ctaBoxFullwidth">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h1>
+                        <strong> <button class="btn btn-xs"><a > I D E A </a></button>  </strong>  
+                        Let's work together on a great idea. 
+                    </h1>
+                </div>  
             </div>
         </div>
     </div>
+</section>  
 
-    </section>
-<!-- about -->
-
-
+ 
 
 
 <div id="paralaxSlice1" data-stellar-background-ratio="0.5">
@@ -172,51 +202,152 @@
         <div class="paralaxText container">
             <i class="icon-megaphone "></i>
             <blockquote class="bigTitle">
-
-
-<span class="red_big">OUR SERVICES</span> <span class="lgray_big">/</span> <span class="blue_big">Web development</span><span class="lgray_big">/</span><span class="gray_big">Mobile Application Development</span> <span class="lgray_big">/</span> <span class="blue_big">Hybrid Mobile Apps</span> <span class="lgray_big">/</span> 
-<span class="gray_big">Cloud Services</span><span class="lgray_big">/</span> <span class="gray_big">UI UX Design</span> <span class="lgray_big">/</span> <span class="blue_big">Fullstack Javascript</span> <span class="lgray_big">/</span> <span class="gray_big">e Learning Solutions</span><span class="blue_big"><span class="lgray_big">/</span> Game Development</span>
-
+            <span class="red_big">OUR SERVICES</span> 
+            <span class="lgray_big">/</span> <span class="blue_big">System Integration</span>
+            <span class="lgray_big">/</span> <span class="blue_big">Electrical Harness </span>
+            <span class="lgray_big">/</span> <span class="blue_big">PCB Design</span>
+            <span class="lgray_big">/</span> <span class="blue_big">SMD Soldering</span>            
+            <span class="lgray_big">/</span> <span class="blue_big">Embedded System Development </span>       
+            <span class="lgray_big">/</span> <span class="gray_big">Mobile Compuling </span> 
+            <span class="lgray_big">/</span> <span class="gray_big">Hybrid Mobile Apps</span>      
+            <span class="lgray_big">/</span> <span class="gray_big">Web Development</span>
+            <span class="lgray_big">/</span> <br> <span class="gray_big">UI UX Design</span> 
+            <span class="lgray_big">/</span> <span class="gray_big">Fullstack Javascript</span> 
+            <span class="lgray_big">/</span> <span class="gray_big">e Learning </span>
+            <span class="lgray_big">/</span> <br> <span class="gray_big">Game Development</span>
+            <span class="lgray_big">/</span>  <span class="gray_big">Cloud Services</span>  
             </blockquote>
         </div>
     </div>
 </div>
 
 <section class="slice" id="services">
+    <div class="container imgHover"> 
 
-
-<div class="container imgHover">
         <div class="row">
-            <div class="col-lg-12">
-                <h1>Services</h1><br>
-            </div>
+            <div class="col-lg-12"> <h1>Services</h1> <br> </div>
 
             <article class="col-sm-4">  
                 <section class="newsText">
-                    <h3>RIA</h3>
-                    <p>In MXBIT we have created a whole bunch of RIA applications based on HTML5, CSS3, Javascript, Flash, Flex and AIR.</p><p>Creating RIA based products and solutions has always been our passion and in this endure we have worked with multiple clients across the globe in creating engaging applications which offers great user experiences and performance over the web and on the desktop.</p><p>
-                    As Facebook natives, we have innovative approach to make brands more social, to reinvent the way conventional business works with its costomers. </p>
+                    <h3>System Integration</h3>
+                    <p> 
+                Our system integrators analyze the integration document,  generate  the matrix of interconnection requirements and 
+                optimize  the System Engineering  Integration and Testing (SEIT) structure to suit the customer demands.        
+                We  perform finite component level checkout  for every component to test the integration entry criteria.        
+                We adopt  the best practice system integration strategy based on <a href="https://www.isa.org/isa95/">SIA95</a> 
+                with a goal to reduce risk, cost and errors while increasing the robustness and  
+                <a href=" https://labour.gov.in/industrial-safety-health">  industrial safety.</a> 
+                </p>
+                <p>
+                     </p>
                 </section>
             </article>
 
             <article class="col-sm-4">  
                 <section class="newsText">
-                    <h3>MOBILITY</h3>
-                    <p>As more customers access the internet via mobile devices, it becomes increasingly important to reach those users. </p><p>To support this shift our team transforms business information into the most popular and fascinating mobile applications. And ensures that web sites are accessible using mobile devices.</p><p>With our Mobility team, new business ventures can be launched into web space focusing on mobile customers.We work on Mobile and Tablet applications for various domains like, Sports, Entertainment, Food, Education and Health.</p>
+                    <h3>Electrical Harness</h3>
+                    <p> We adopt continuous harness integration model and establish a development strategy independent of the harness design team 
+                    and  effectively eliminate  the error progression. 
+                    We creates a system architecture overview early in the program and use it as the reference framework for incremental harness realization.
+                     The wire  harness is tested  end to end with respect to the system level requirements for operational acceptance. 
+                    We follow the configuration management  process for the harness verification and checkout.
+                </p>
+ 
                 </section>
             </article>
 
             <article class="col-sm-4">  
                 <section class="newsText">
-                    <h3>UI / UX DESIGN</h3>
-                    <p>A good design works on an intellectual and emotional level, and is the intersection of business goals and user needs. We look for this sweet spot in every project, to deliver a simple and the most elegant design/solution.</p><p>The user's experience is the perception that's left in their mind after they leave the site/app. We create this perception by our drop dead, gorgeous, state of art and pleasure-to-use interfaces.</p><p>
-                    MXBIT solutions provide a pleasant online experience when conducting complicated transactions, which completes faster and more easily than expected. MXBIT makes complex simple.</p>
+                    <h3>PCB Design</h3>
+                    <p> We provide end to end electronic system design solution from circuit schematic entry, 
+                      <a href="https://www.ucamco.com/en/gerber"> GERBER </a> file creation, 
+                    PCB fabrication and SMD soldering, circuit testing and package delivery. 
+                    We follow <a href="https://www.isac.gov.in/industry/industry-participation/Doc/ISRO-PAX-301-Rev1.pdf">
+                    ISRO PAX 301 </a> standard for high reliability PCB design.
+                    The fabricated PCBs are visibility inspected with 20x inspection microscope and strict quality control protocol are followed as per
+                    customer requirements.
+                      </p>
                 </section>
-            </article>                        
+            </article>   
+        </div> 
 
-           
+        <div class="row">   
+            <article class="col-sm-4">  
+                <section class="newsText">
+                    <h3>SMD Soldering</h3>
+                    <p>
+                We use temperature and air flow controlled soldering units for surface mount component soldering with 
+                maximum heat generation of 700 Watt  and with precision temperature control.
+                Specifications: Low EMI/ESD interference to components, adjustable air flow and air volume up to 120 L/ minute,
+                temperature adjustment range from 100 °C to 450 °C, noise level less than 45dB,
+                air gun position stability sense for precision air flow targeting, 
+                 closed loop control for temperature  stability and cold wind feature for post solder component cooling.
+                </p>
+                </section>
+            </article>
 
-        </div>
+            <article class="col-sm-4">  
+                <section class="newsText">
+                    <h3>Embedded System Development</h3>
+                    <p> 
+                We design and develop network enabled data acquisition modules for remote data acquisition and commanding interface.
+                 The data acquisition module can acquire  0-100volt signals and transmit the digitalized signal through network for remote monitoring.
+                 This product is designed as per ISRO requirement. We have done complete product realization from concept including circuit schematic, 
+                PCB  layout design, PCB fabrication, component soldering and functional testing.
+            </p>
+                </section>
+            </article>           
+
+            <article class="col-sm-4">  
+                <section class="newsText">
+                    <h3>Mobile Computing</h3>
+                    <p> As more and more customers access the Internet via mobile devices, it becomes increasingly important to reach those users on-line. 
+                    To  support this shift our team transforms business information into fascinating mobile applications and ensures that web sites are accessible                  through mobile devices.
+                     With our Mobility team  new  ventures can be launched into web space focusing on new customers. 
+                    We work on Mobile and Tablet applications for  sports, entertainment, food, education and health care.</p>
+                </section>
+            </article>   
+        </div> 
+
+        <div class="row">   
+            <article class="col-sm-4">  
+                <section class="newsText">
+                    <h3>Hybrid   Applications</h3>
+                    <p>
+                We  creates software solution interacting  equally well with core  computing side and user interface side.
+                We design and develop hybrid application  eco systems  interfacing with C program modules for kernel interface,  CSS and Java modules for
+                aesthetic user interface  and requirement specific mobile applications for mobility enhanced experiences.
+                </p>
+                </section>
+            </article>
+
+            <article class="col-sm-4">  
+                <section class="newsText">
+                    <h3>Rich Internet Application</h3>
+                    <p>
+                    In MXBIT we have created a whole set of Rich Internet Applications based on HTML5, CSS3, Javascript, Flash, Flex and AIR.
+                    Creating RIA based products and solutions has always been our passion and in this endure we have worked with multiple clients across the                        globe in creating engaging applications which offers great user experiences and performance over the web and on the desktop.
+                    We have innovative approach to make brands more  visible and to reinvent the way conventional business works
+             </p>
+                </section>
+            </article>           
+
+            <article class="col-sm-4">  
+                <section class="newsText">
+                    <h3>UI and UX Design</h3>
+                    <p>
+                    A good design works  on an  intellectual as well as emotional level and at the intersection of business goals and user needs. 
+                    We look for this USP in every project and deliver  simple and elegant  solution.
+                    Our web illustrations create a visual treat which persists  in the imaginations of the user even after leaving the site.
+                    We create this perception with our  state of art  simple and pleasing interface strategy.
+                            We create online interactions  faster and  easier than ever expected. 
+                    MXBIT makes complex simple.</p>
+                </section>
+            </article>   
+        </div> 
+
+
+
     </div>
 
 
@@ -448,8 +579,9 @@
                 <h4>Address:</h4>
                 <address>
                 <strong>Bengaluru</strong><br>
-                # 2310, 16th Cross Road, <br>27th Main,<br>
-                Sector I, HSR Layout, <br>Bangalore 560102
+                # 2310, 16th Cross Road, <br>
+            27th Main,  Sector I, <br>
+            HSR Layout, <br>Bangalore 560102
                 India<br><br>
                 <strong>Thiruvananthapuram</strong><br>
                 I Floor, 49K, TC 23/1402(4), B Block, <br> 
@@ -458,6 +590,7 @@
                 </address>
                 <h4>Telephone:</h4>
                 <address>
+                +91 8078 1560 42<br/>
                     +91 9611 1419 24<br/>
                 </address>
                 <h4>E-mail:</h4>
@@ -538,7 +671,10 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
+            <p>MXBIT <sup>&reg;</sup>  is registered word mark of MXBIT Technology Innovations Private Limited </p>
+            
                 <p>Copyright © <script>document.write(new Date().getFullYear())</script> MXBIT Technology Innovations Pvt Ltd </p>
+
             </div>
             <div class="col-sm-6">
                 <ul class="socialNetwork pull-right">
