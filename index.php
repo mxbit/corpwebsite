@@ -406,10 +406,11 @@
 </div>
 <nav id="filter" class="col-md-12 text-center">
     <ul>
-        <li><a href="" class="current btn btn-sm" data-filter="*">All</a></li>
+        <li ><a href="" class="btn btn-sm" data-filter=".elec">Electrical</a></li>
         <li><a href=""  class="btn btn-sm" data-filter=".interaction" >Web</a></li>
         <li><a href=""  class="btn btn-sm" data-filter=".arts">Mobility</a></li>
         <li ><a href="" class="btn btn-sm" data-filter=".info">UI UX Design</a></li>
+        <li><a href="" class="current btn btn-sm" data-filter="*">All</a></li>
     </ul>
 </nav>
 
@@ -528,6 +529,24 @@
         <div class="mask"><span>Websites</span></div>
         <div class="iconLinks">
             <a href="projects/corp_web.html" title="Detail View" class="sizer portfolioSheet">
+                <i class=" icon-eye iconRounded iconBig"></i>
+                <span>More info</span>
+            </a>
+        </div>
+    </div>
+</article>
+
+
+<article class="col-sm-4 isotopeItem elec interaction">
+    <section class="imgWrapper">
+        <img alt="" src="images/works/teletaxi.jpg" class="img-responsive">
+    </section>
+
+    
+    <div class="mediaHover">
+        <div class="mask"><span>SCUBI Command monitoring LED Panel</span></div>
+        <div class="iconLinks">
+            <a href="projects/elec_cmled.html" title="Detail View" class="sizer portfolioSheet" alt="Command monitoring LED Panel">
                 <i class=" icon-eye iconRounded iconBig"></i>
                 <span>More info</span>
             </a>
