@@ -43,6 +43,7 @@
     <link type="text/css" id="colors" rel="stylesheet" href="css/colors.css">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
     <script src="js/modernizr-2.6.1.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <!-- Favicons
     ================================================== -->
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -70,7 +71,7 @@
                     <!--<li><a href="#services"><i class="icon-thumbs-up"></i>Services</a> </li>-->
                     <li><a href="#services"><i></i>Services</a> </li>
                     <li><a href="#approach"><i></i>Approach</a> </li>
-                    <li><a href="#works"><i></i>Projects</a> </li>
+                    <!--<li><a href="#works"><i></i>Projects</a> </li>-->
                     <!-- <li><a href="#products"><i></i>Products</a> </li> -->
                     <li><a href="#contact"><i></i>Contact</a> </li>
                 </ul>
@@ -397,6 +398,8 @@
     </div>
 </div>
 
+
+<!--
 <section class="slice" id="works">
 <div class="container clearfix">
 <div class="row">
@@ -561,7 +564,7 @@
 </div>
 </div>
 </section>
-
+-->
 <div id="paralaxSlice3" data-stellar-background-ratio="0.5">
     <div class="maskParent">
         <div class="paralaxMask"></div>
@@ -592,7 +595,7 @@
                 <h1 class="noSubtitle">Contact</h1>
             </div>
             <div class="col-sm-12">
-                <div id="mapWrapper" class="mb30"></div>
+               <!-- <div id="mapWrapper" class="mb30"></div>-->
             </div>
             <div class="col-sm-4">
                 <h4>Address:</h4>
@@ -603,13 +606,12 @@
             HSR Layout, <br>Bangalore 560102
                 India<br><br>
                 <strong>Thiruvananthapuram</strong><br>
-                I Floor, 49K, TC 23/1402(4), B Block, <br> 
-                GNRA Junction, CIT Road, Melarannor <br> 
+                I Floor, VN24, Vidya Nagar, <br> 
+                Thycaud PO <br> 
                 Thiruvananthapuram, Kerala 695002. <br>
                 </address>
                 <h4>Telephone:</h4>
                 <address>
-                +91 8078 1560 42<br/>
                     +91 9611 1419 24<br/>
                 </address>
                 <h4>E-mail:</h4>
@@ -640,9 +642,11 @@
                     </div>
                     <fieldset class="clearfix securityCheck">
                         <legend>Security</legend>
+			<div class="g-recaptcha" data-sitekey="6LcdTNsZAAAAANjHSXclHq6xmG6nP9JI3sJ0i8OH"></div>
+
                         <div class="form-group">
-                            <img alt="Image verification" id="verifyImg" style="width:50%;height:auto;" /><span class="btn btn-xs icon-cw" id="refreshSecret">Change</span>
-                            <input class="required form-control"  id="verify" name="verify" type="text" >
+                            <!--<img alt="Image verification" id="verifyImg" style="width:50%;height:auto;" /><span class="btn btn-xs icon-cw" id="refreshSecret">Change</span>
+                            <input class="required form-control"  id="verify" name="verify" type="text" > -->
                         </div>
                     </fieldset>
                 </div>
@@ -690,7 +694,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-            <p>MXBIT <sup>&reg;</sup>  is registered word mark of MXBIT Technology Innovations Private Limited </p>
+           <!-- <p>MXBIT <sup>&reg;</sup>  is registered word mark of MXBIT Technology Innovations Private Limited </p>-->
             
                 <p>Copyright © <script>document.write(new Date().getFullYear())</script> MXBIT Technology Innovations Pvt Ltd </p>
 
